@@ -209,6 +209,8 @@ img {
     height:200px;
     width: 300px;
     float: left;
+    margin-right: 32px;
+
 
 }
 
@@ -226,9 +228,18 @@ img {
     height: 200px;
     width: 300px;
     float: left;
+    margin-right: 30px;
 
 }
 
+
+#psychic {
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+
+}
 
 #break2 {
 
